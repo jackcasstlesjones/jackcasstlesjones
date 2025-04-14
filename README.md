@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A Full-Stack Developer based in London</h3>
+<h3 align="center">Co-Founder of [Tandem]([runintandem.com](https://runintandem.com/) and Full-Stack Developer based in London</h3>
 
 - 🔭 I’m currently working on [Olympiatree](https://olympiatree.netlify.app/)
 
