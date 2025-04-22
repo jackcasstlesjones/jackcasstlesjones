@@ -1,13 +1,7 @@
 # Hi 👋, I'm Jack</h1>
 ## Co-Founder of [Tandem](https://runintandem.com/) and Full-Stack Developer based in London
-
-- 🔭 I’m currently working on [Olympiatree](https://olympiatree.netlify.app/)
-
-- My projects are available at [https://jackcasstlesjones.com/](https://jackcasstlesjones.com/)
-
-- 💬 Ask me about **React, NextJS & SQL**
-
-- 📫 How to reach me **jackcasstlesjones@gmail.com**
+  
+- Reach me at **jack@foundersandcoders.com**
 
 - ⚡ Fun fact **I can juggle & love rock climbing**
 
