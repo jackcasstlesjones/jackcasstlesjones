@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jack</h1>
+# Hi 🤸 I'm Jack</h1>
 ## Co-Founder of [Tandem](https://runintandem.com/) and Full-Stack Developer based in London
   
 - Reach me at **jack@foundersandcoders.com**
